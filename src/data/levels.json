@@ -1,0 +1,258 @@
+[
+  {
+    "rank": 1,
+    "min": 0,
+    "max": 5,
+    "name": "Level 1",
+    "backgroundColor": "#00aaff",
+    "textColor": "light"
+  },
+  {
+    "rank": 2,
+    "min": 6,
+    "max": 20,
+    "name": "Level 2",
+    "backgroundColor": "#22a8ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 3,
+    "min": 21,
+    "max": 50,
+    "name": "Level 3",
+    "backgroundColor": "#35a6ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 4,
+    "min": 51,
+    "max": 100,
+    "name": "Level 4",
+    "backgroundColor": "#44a3ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 5,
+    "min": 101,
+    "max": 200,
+    "name": "Level 5",
+    "backgroundColor": "#52a1ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 6,
+    "min": 201,
+    "max": 350,
+    "name": "Level 6",
+    "backgroundColor": "#5f9eff",
+    "textColor": "light"
+  },
+  {
+    "rank": 7,
+    "min": 351,
+    "max": 600,
+    "name": "Level 7",
+    "backgroundColor": "#6b9bff",
+    "textColor": "light"
+  },
+  {
+    "rank": 8,
+    "min": 601,
+    "max": 1000,
+    "name": "Level 8",
+    "backgroundColor": "#7698ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 9,
+    "min": 1001,
+    "max": 1500,
+    "name": "Level 9",
+    "backgroundColor": "#8294ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 10,
+    "min": 1501,
+    "max": 2200,
+    "name": "Level 10",
+    "backgroundColor": "#8d91ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 11,
+    "min": 2201,
+    "max": 3100,
+    "name": "Level 11",
+    "backgroundColor": "#978dff",
+    "textColor": "light"
+  },
+  {
+    "rank": 12,
+    "min": 3101,
+    "max": 4500,
+    "name": "Level 12",
+    "backgroundColor": "#a289ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 13,
+    "min": 4501,
+    "max": 6500,
+    "name": "Level 13",
+    "backgroundColor": "#ac84ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 14,
+    "min": 6501,
+    "max": 9000,
+    "name": "Level 14",
+    "backgroundColor": "#b680ff",
+    "textColor": "light"
+  },
+  {
+    "rank": 15,
+    "min": 9001,
+    "max": 12000,
+    "name": "Level 15",
+    "backgroundColor": "#bf7bfc",
+    "textColor": "light"
+  },
+  {
+    "rank": 16,
+    "min": 12001,
+    "max": 16000,
+    "name": "Level 16",
+    "backgroundColor": "#c876f7",
+    "textColor": "light"
+  },
+  {
+    "rank": 17,
+    "min": 16001,
+    "max": 21000,
+    "name": "Level 17",
+    "backgroundColor": "#d170f2",
+    "textColor": "light"
+  },
+  {
+    "rank": 18,
+    "min": 21001,
+    "max": 28000,
+    "name": "Level 18",
+    "backgroundColor": "#d96bec",
+    "textColor": "light"
+  },
+  {
+    "rank": 19,
+    "min": 28001,
+    "max": 36000,
+    "name": "Level 19",
+    "backgroundColor": "#e165e6",
+    "textColor": "light"
+  },
+  {
+    "rank": 20,
+    "min": 36001,
+    "max": 47000,
+    "name": "Level 20",
+    "backgroundColor": "#e85edf",
+    "textColor": "light"
+  },
+  {
+    "rank": 21,
+    "min": 47001,
+    "max": 60000,
+    "name": "Level 21",
+    "backgroundColor": "#ef58d8",
+    "textColor": "light"
+  },
+  {
+    "rank": 22,
+    "min": 60001,
+    "max": 80000,
+    "name": "Level 22",
+    "backgroundColor": "#f551d0",
+    "textColor": "light"
+  },
+  {
+    "rank": 23,
+    "min": 80001,
+    "max": 110000,
+    "name": "Level 23",
+    "backgroundColor": "#fb4ac8",
+    "textColor": "light"
+  },
+  {
+    "rank": 24,
+    "min": 110001,
+    "max": 150000,
+    "name": "Level 24",
+    "backgroundColor": "#ff43bf",
+    "textColor": "light"
+  },
+  {
+    "rank": 25,
+    "min": 150001,
+    "max": 200000,
+    "name": "Level 25",
+    "backgroundColor": "#ff3bb6",
+    "textColor": "light"
+  },
+  {
+    "rank": 26,
+    "min": 200001,
+    "max": 260000,
+    "name": "Level 26",
+    "backgroundColor": "#ff34ac",
+    "textColor": "light"
+  },
+  {
+    "rank": 27,
+    "min": 260001,
+    "max": 330000,
+    "name": "Level 27",
+    "backgroundColor": "#ff36a2",
+    "textColor": "light"
+  },
+  {
+    "rank": 28,
+    "min": 330001,
+    "max": 410000,
+    "name": "Level 28",
+    "backgroundColor": "#ff3899",
+    "textColor": "light"
+  },
+  {
+    "rank": 29,
+    "min": 410001,
+    "max": 500000,
+    "name": "Level 29",
+    "backgroundColor": "#ff398f",
+    "textColor": "light"
+  },
+  {
+    "rank": 30,
+    "min": 500001,
+    "max": 600000,
+    "name": "Level 30",
+    "backgroundColor": "#ff3a86",
+    "textColor": "light"
+  },
+  {
+    "rank": 31,
+    "min": 600001,
+    "max": 720000,
+    "name": "Level 31",
+    "backgroundColor": "#ff3a7d",
+    "textColor": "light"
+  },
+  {
+    "rank": 32,
+    "min": 720001,
+    "max": 99999999999,
+    "name": "Level 32",
+    "backgroundColor": "#ff3a73",
+    "textColor": "light"
+  }
+]

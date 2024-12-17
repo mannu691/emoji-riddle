@@ -1,4 +1,5 @@
 # Emoji Riddle  
+![Snipaste_2024-12-17_11-52-11](https://github.com/user-attachments/assets/5bb37ae2-6a09-41e9-a5b6-c78d5f2113a5)
 
 **Riddle, Guess, and Climb the Leaderboard!**  
 

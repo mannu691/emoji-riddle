@@ -1,12 +1,9 @@
 {
   "private": true,
   "name": "emoji-riddle",
-  "version": "0.0.0-dev",
+  "version": "0.1.0",
   "license": "BSD-3-Clause",
   "type": "module",
-  "scripts": {
-    "dev":"devvit playtest emojiquest"
-  },
   "dependencies": {
     "@devvit/public-api": "0.11.4"
   },

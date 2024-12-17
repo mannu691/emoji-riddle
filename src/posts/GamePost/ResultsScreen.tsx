@@ -110,6 +110,8 @@ export const ResultsScreen = (props: ResultsScreenProps, context: Context): JSX.
       <zstack height={rowHeight} width="100%" backgroundColor="rgba(255, 255, 255, 0.2)" />
     )
   );
+  const headingScale = (context.dimensions?.width ?? 0) > 343 ? 2 : 1.5
+  const riddleScale = (context.dimensions?.width ?? 0) > 343 ? "xxlarge" : 'xlarge'
 
   return (
 
@@ -119,11 +121,11 @@ export const ResultsScreen = (props: ResultsScreenProps, context: Context): JSX.
 
         {/* Header */}
         <vstack gap="medium" alignment="center middle">
-          <text color="black" alignment="center" overflow="ellipsis" weight="bold" size="xxlarge">{props.postData.riddle}</text>
+          <text color="black" alignment="center" overflow="ellipsis" weight="bold" size={riddleScale}>{props.postData.riddle}</text>
           <hstack gap="small" alignment="start middle">
-            <PixelText scale={2}>{props.postData.answer}</PixelText>
-            <PixelText scale={2} color={Settings.theme.secondary}>:</PixelText>
-            <PixelText scale={2} color={Settings.theme.secondary}>
+            <PixelText scale={headingScale}>{props.postData.answer}</PixelText>
+            <PixelText scale={headingScale} color={Settings.theme.secondary}>:</PixelText>
+            <PixelText scale={headingScale} color={Settings.theme.secondary}>
               {`u/${props.postData.authorUsername}`}
             </PixelText>
           </hstack>

@@ -39,7 +39,7 @@ export const PinnedPost = (props: PinnedPostProps, context: Context): JSX.Elemen
   if (user === null || loading) {
     return <LoadingStateSpinner />;
   }
-
+  const width = context.dimensions?.width ?? 0;
   const level = getLevelByScore(user?.score ?? 0);
 
   const percentage = Math.round(
@@ -69,7 +69,7 @@ export const PinnedPost = (props: PinnedPostProps, context: Context): JSX.Elemen
       <spacer height="16px" />
 
       {/* Wordmark */}
-      <PixelText scale={4}>Emoji Riddle</PixelText>
+      <PixelText scale={width > 343 ? 4 : 3}>Emoji Riddle</PixelText>
 
       <spacer grow />
 

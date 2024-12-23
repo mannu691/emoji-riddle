@@ -1,7 +1,7 @@
 # Emoji Riddle  
 ![Snipaste_2024-12-17_11-52-11](https://github.com/user-attachments/assets/5bb37ae2-6a09-41e9-a5b6-c78d5f2113a5)
 
-#### Video Demo:  [Youtube](https://youtu.be/UbU01q7c6w8)
+#### Video Demo:  [Youtube](https://youtu.be/-YizLv5Ft7g)
 **Riddle, Guess, and Climb the Leaderboard!**  
 
 Emoji Riddle is an exciting and interactive guessing game where you can challenge your friends and other players by creating riddles using emojis, guessing answers, and scoring points to unlock amazing rewards and climb the leaderboard.  
